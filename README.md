@@ -5,7 +5,7 @@ An aspiring MERN Full Stack Web Developer ,ready to work. Passionate to code and
 
 Skills: REACT / JS / HTML / CSS / REDUX / TYPESCRIPT
 
-- 🌱 I’m currently learning TYPESCRIPT / REDUX  
+- 🌱 I’m currently learning Node JS / MongoDB / Express JS.
 - 📫 How to reach me: ramsahith65@gmail.com 
 
 
