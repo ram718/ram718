@@ -1,25 +1,22 @@
-
 ![sb-blog-programming](https://github.com/ram718/ram718/assets/110825928/0411a335-589d-418c-84ea-a55ea591b565)
 
+## <p align='center'>Hi there 👋 !</p>
+## <p align='center'>Welcome to my github</p>
 
+### <p align='center'>My name is Jogendra Phani Ram Sahith Terli</p>
+### <p align='center'>MERN Full Stack Web Developer</p>
 
-## Hi there 👋 ! 
-## Welcome to my github
-
-### My name is Jogendra Phani Ram Sahith Terli
-#### MERN Full Stack Web Developer
-An aspiring MERN Full Stack Web Developer ,ready to work. Passionate to code and interested in learning new languages and frameworks.
-
-Skills: REACT / JS / HTML / CSS / REDUX / TYPESCRIPT
-
+## About Me
+<p>An aspiring MERN Full Stack Web Developer ,ready to work. Passionate to code and interested in learning new languages and frameworks.</p>
 - 🌱 I’m currently learning Node JS / MongoDB / Express JS.
-- 📫 How to reach me: <a href='ram.sahith6@gmail.com'></a>
 
+- 📫 How to reach me: 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ram-sahith-terli-b4073a1a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ram718.github.io/)  
+## Tech Stack and Tools
+
+REACT / JS / HTML / CSS / REDUX / TYPESCRIPT 
 
 # Git Stats
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ram718)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram718&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
