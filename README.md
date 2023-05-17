@@ -14,7 +14,7 @@
 
 # <p align='center'>Tech Stack and Tools</p>
 <div align='center'>
-  <img src='https://user-images.githubusercontent.com/112663758/210388665-9ed02ede-ad9e-459d-85be-5e34641130d4.png' width='60px' />
+  <img src='https://user-images.githubusercontent.com/112663758/210388665-9ed02ede-ad9e-459d-85be-5e34641130d4.png' width='55px' />
   <img src='https://user-images.githubusercontent.com/112663758/210388688-e847fdea-bb47-40ad-a6be-fc625e9ab187.png' width='60px' />
   <img src='https://user-images.githubusercontent.com/112663758/210388778-02df2a2b-a44f-40d0-9437-05d3a10a04c7.png' width='60px' />
   <img src='https://user-images.githubusercontent.com/112663758/210388813-f37ef023-fcf4-4b9d-8989-bde12cb74779.png' width='60px' />
