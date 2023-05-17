@@ -1,18 +1,21 @@
 ![sb-blog-programming](https://github.com/ram718/ram718/assets/110825928/0411a335-589d-418c-84ea-a55ea591b565)
 
 ## <p align='center'>Hi there 👋 !</p>
-## <p align='center'>Welcome to my github</p>
 
-### <p align='center'>My name is Jogendra Phani Ram Sahith Terli</p>
+### <p align='center'My name is Jogendra Phani Ram Sahith Terli</p>
 ### <p align='center'>MERN Full Stack Web Developer</p>
 
-# About Me
-<p>An aspiring MERN Full Stack Web Developer ,ready to work. Passionate to code and interested in learning new languages and frameworks.</p>
+## About Me
+<p>An aspiring MERN Full Stack Web Developer,ready to
+                  work.Passionate to code and capable of writing
+                  production-ready code using React, HTML, CSS for the front end
+                  and JS and MongoDB for the back end. Always up for a
+                  challenge, interested in learning new languages and
+                  frameworks.</p>
 - 🌱 I’m currently learning Node JS / MongoDB / Express JS.
-
 - 📫 How to reach me: ramsahith65@gmail.com
 
-# <p align='center'>Tech Stack and Tools</p>
+## <p align='center'>Tech Stack and Tools</p>
 <div align='center'>
   <img src='https://user-images.githubusercontent.com/112663758/210388665-9ed02ede-ad9e-459d-85be-5e34641130d4.png' width='55px' />
   <img src='https://user-images.githubusercontent.com/112663758/210388688-e847fdea-bb47-40ad-a6be-fc625e9ab187.png' width='60px' />
@@ -33,8 +36,12 @@
 </div>
 
 
-# Git Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ram718)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram718&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## <p align='center'>Git Stats</p>
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=ram718&theme=merko' />
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=ram718&theme=merko' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ram718&layout=compact&theme=dark' />
+</div>
+
 
 
