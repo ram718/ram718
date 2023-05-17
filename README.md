@@ -2,7 +2,7 @@
 
 ## <p align='center'>Hi there 👋 !</p>
 
-### <p align='center'My name is Jogendra Phani Ram Sahith Terli</p>
+### <p align='center'>My name is Jogendra Phani Ram Sahith Terli</p>
 ### <p align='center'>MERN Full Stack Web Developer</p>
 
 ## About Me
@@ -38,7 +38,7 @@
 
 ## <p align='center'>Git Stats</p>
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=ram718&theme=merko' />
+<img src='https://github-readme-stats.vercel.app/api?username=ram718&theme=merko' />
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=ram718&theme=merko' />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ram718&layout=compact&theme=dark' />
 </div>
