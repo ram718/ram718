@@ -13,10 +13,13 @@ An aspiring MERN Full Stack Web Developer ,ready to work. Passionate to code and
 Skills: REACT / JS / HTML / CSS / REDUX / TYPESCRIPT
 
 - 🌱 I’m currently learning Node JS / MongoDB / Express JS.
-- 📫 How to reach me: ramsahith65@gmail.com 
+- 📫 How to reach me: <a href='ram.sahith6@gmail.com'></a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ram-sahith-terli-b4073a1a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ram718.github.io/)  
 
+# Git Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ram718)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram718&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
